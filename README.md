@@ -123,7 +123,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For any questions or further information, please contact the project maintainers at [your-email@example.com](mailto:your-email@example.com).
+For any questions or further information, please contact the project maintainers at [kishupurohit1@gmail.com](mailto:kishupurohit1).
 
 ---
 
